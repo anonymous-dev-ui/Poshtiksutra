@@ -660,13 +660,13 @@ header {
 .hero>.slider>.slide>.content {
     z-index: 101;
     position: relative;
-    width: 40%;
+    width: 50%;
     padding: 5% 4%;
     height: 40%;
     display: flex;
     justify-content: center;
     color: rgb(0, 0, 0);
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column;
     border-radius: 6px;
 }
@@ -750,21 +750,27 @@ header {
 .hero>.promo-slides {
     width: 90%;
     padding: 20px 5%;
-    height: 200px;
+    min-height: 200px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
+    flex-wrap: wrap;
+    border-bottom: 1px solid rgb(235, 235, 235);
 }
 
 .hero>.promo-slides>.promo-slide {
-    width: 30%;
-    height: 100%;
+    width: 220px;
+    height: 290px;
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0 0 20px -15px #444;
+    text-decoration: none;
+    margin: 15px 10px;
     border-radius: 6px;
     overflow: hidden;
+    cursor: pointer;
+    transition: 0.3s;
+    position: relative;
 }
 
 .hero>.promo-slides>.promo-slide>img {
@@ -772,4 +778,66 @@ header {
     object-fit: cover;
     height: 100%;
     object-position: bottom;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.heading {
+    width: 90%;
+    padding: 0 5%;
+    height: 60px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 1px solid rgb(235, 235, 235);
+}
+
+.heading>h3 {
+    font-size: 24px;
+    color: #000;
+    position: relative;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading>h3::after {
+    content: "";
+    position: absolute;
+    right: -100%;
+    width: 90%;
+    height: 3px;
+    background: var(--secondary-color);
+    border-radius: 150px;
+}
+
+.heading>h3::before {
+    content: "";
+    position: absolute;
+    right: -160%;
+    width: 50%;
+    height: 3px;
+    background: var(--secondary-color);
+    border-radius: 150px;
+}
+
+.hero>.promo-slides>.promo-slide>.name {
+    padding: 2% 6%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--secondary-color);
+    transition: 0.4s;
+    color: #fff;
+    border-radius: 6px;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.hero>.promo-slides>.promo-slide:hover>.name {
+    padding: 100%;
+    letter-spacing: 1px;
 }

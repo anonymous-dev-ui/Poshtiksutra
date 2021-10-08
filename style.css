@@ -8,7 +8,7 @@
 
 :root {
     --primary-color: #1f4a2f;
-    --secondary-color: rgb(248, 244, 0);
+    --secondary-color: rgb(248, 182, 0);
     --style-font: 'Akronim', cursive;
 }
 
@@ -524,6 +524,10 @@ header {
     font-weight: 900;
 }
 
+.navbar>.categorybar>#open-list:hover>i {
+    transform: rotate(45deg);
+}
+
 .navbar>.categorybar>ul {
     position: absolute;
     top: 100%;
@@ -545,6 +549,7 @@ header {
     color: #000;
     position: relative;
     transition: 0.3s;
+    border-bottom: 1px solid rgb(216, 216, 216);
 }
 
 .navbar>.categorybar>ul>li:hover {
@@ -564,7 +569,7 @@ header {
 
 .navbar>.categorybar>ul>li>i {
     position: absolute;
-    top: 15px;
+    top: 19px;
     font-size: 14px;
     right: 10px;
 }
@@ -606,7 +611,7 @@ header {
     position: relative;
     width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     z-index: 100;
 }
@@ -617,20 +622,36 @@ header {
     width: 100%;
     height: 100%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
 }
 
 .hero>.slider>.slide>.content {
     z-index: 101;
     position: relative;
-    width: 50%;
-    padding: 5% 15%;
+    width: 40%;
+    padding: 5% 0%;
     height: 90%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    color: rgb(0, 0, 0);
+    align-items: flex-start;
     flex-direction: column;
+}
+
+.hero>.slider>.slide>.content>.btn {
+    padding: 10px 35px;
+    color: #000;
+    border-radius: 6px;
+    border: 3px solid var(--secondary-color);
+    transition: 0.3s;
+}
+
+.hero>.slider>.slide>.content>.btn:hover {
+    background-color: var(--secondary-color);
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 2px;
 }
 
 .hero>.slider>.slide>.content>h2 {
@@ -640,6 +661,9 @@ header {
 
 .hero>.slider>.slide>.content>h4 {
     margin: 15px 0;
+    font-weight: 400;
+    line-height: 29px;
+    text-align: justify;
 }
 
 .hero .image {
@@ -663,6 +687,7 @@ header {
     background-color: var(--primary-color);
     cursor: pointer;
     transition: 0.1s;
+    top: 110px;
 }
 
 .hero>.navigation.left {

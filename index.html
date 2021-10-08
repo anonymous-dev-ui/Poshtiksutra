@@ -138,9 +138,9 @@
             <div class="slider">
                 <div class="slide">
                     <div class="content">
-                        <h2>Heading</h2>
+                        <h2>Organic and Hygeinic Food</h2>
                         <h4>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam, illum eaque. Ipsa sit similique, sunt fugiat, rem ex ipsum reiciendis sapiente nihil ratione itaque excepturi odit exercitationem minus autem. Cum.</h4>
-                        <a href="#" class="btn">Button</a>
+                        <a href="#" class="btn">Shop Now !</a>
                     </div>
                     <div class="image"><img src="./assets/gallery/banner.png" alt=""></div>
                 </div>
@@ -151,7 +151,16 @@
                 <div class="promo-slide">
                     <img src="./assets/gallery/placeholder.png" alt="">
                 </div>
+                <div class="promo-slide">
+                    <img src="./assets/gallery/placeholder.png" alt="">
+                </div>
+                <div class="promo-slide">
+                    <img src="./assets/gallery/placeholder.png" alt="">
+                </div>
             </div>
+        </div>
+        <div class="product-list">
+            <div class="full-heading"></div>
         </div>
     </main>
 </body>
@@ -159,6 +168,7 @@
     var togglelist = document.querySelectorAll("#open-list")
     for (let i = 0; i < togglelist.length; i++) {
         togglelist[i].onclick = () => {
+            togglelist[i].classList.toggle("active");
             togglelist[i].nextElementSibling.classList.toggle("active");
         }
 

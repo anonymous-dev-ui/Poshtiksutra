@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poshtik Sutra</title>
+    <!-- Font awesome  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
+    <!-- stylesheet  -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <header>
+        <div class="preheader">
+            <div class="row-flex">
+                <ul>
+                    <li class="list-item">
+                        <a href="#">About us</a>
+                    </li>
+                    <li class="list-item">
+                        <a href="#">My account</a>
+                    </li>
+                    <li class="list-item">
+                        <a href="#">Wishlist</a>
+                    </li>
+                    <li class="list-item">
+                        <a href="#">Order Tracking</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="row-flex">
+                <ul>
+                    <li class="list-item download-btn">
+                        <a href="#">Download App ! </a>
+                    </li>
+                    <li class="border-none list-item"><i class="fas fa-phone"></i>
+                        <a href="#">+91 1234567890</a>
+                    </li>
+                    <li class="list-item">
+                        <i class="fas fa-user-shield"></i>
+                        <p>100% Secure delivery without contacting the courier
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="midbar">
+            <div class="logo"><img src="./assets/gallery/logo.png" alt="">
+            </div>
+            <div class="searchbar">
+                <span class="select-location">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <span class="select" id="open-list">
+                        <p>Pin Code - <span class="pincode">110053</span></p> <i class="fas fa-chevron-down"></i>
+                </span>
+                <ul id="list">
+                    <li><a href="#">Pincode - 110054 - Delhi</a><i class="fas fa-map-marker-alt"></i></li>
+
+                    <li><a href="#">Pincode - 110054 - Delhi</a><i class="fas fa-map-marker-alt"></i></li>
+                    <li><a href="#">Pincode - 110054 - Delhi</a><i class="fas fa-map-marker-alt"></i></li>
+                    <li><a href="#">Pincode - 110054 - Delhi</a><i class="fas fa-map-marker-alt"></i></li>
+                    <li><a href="#">Pincode - 110054 - Delhi</a><i class="fas fa-map-marker-alt"></i></li>
+                    <li><a href="#">Pincode - 110054 - Delhi</a><i class="fas fa-map-marker-alt"></i></li>
+                    <li><a href="#">Pincode - 110054 - Delhi</a><i class="fas fa-map-marker-alt"></i></li>
+                </ul>
+                </span> <span class="searchinput">
+                    <input type="text" placeholder="Enter Keywords here...."><button><i
+                            class="fas fa-search"></i></button>
+                </span>
+            </div>
+            <div class="icons">
+                <span class="icon"></span>
+            </div>
+        </div>
+        <div class="navbar">
+            <div class="categorybar">
+                <span id="open-list">
+                    <h3> All Category</h3><i class="fas fa-chevron-down"></i>
+                </span>
+                <ul id="list">
+                    <li><img src="./assets/gallery/placeholder.png" alt=""><a href="#">Edible Oil</a><i class="fas fa-plus"></i></li>
+                    <li><img src="./assets/gallery/placeholder.png" alt=""><a href="#">Herbal</a><i class="fas fa-plus"></i>
+                        <ul>
+
+                            <li><a href="#">Garam Masala</a></li>
+                            <li><a href="#">Herbal Honey</a></li>
+                            <li><a href="#">Herbal Pak</a></li>
+                            <li><a href="#">Herbal Venager</a></li>
+                        </ul>
+                    </li>
+                    <li> <img src="./assets/gallery/placeholder.png" alt=""><a href="#">Honey</a><i class="fas fa-plus"></i></li>
+                    <li><img src="./assets/gallery/placeholder.png" alt=""><a href="#">Ghee</a><i class="fas fa-plus"></i></li>
+                </ul>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li>
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a href="#">Shop</a>
+                    </li>
+                    <li>
+                        <a href="#">Faqs</a>
+                    </li>
+                    <li>
+                        <a href="#">Contact us</a>
+                    </li>
+                    <li>
+                        <a href="#">About us</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="hero">
+
+            <div class="slider">
+                <div class="slide">
+                    <div class="content">
+                        <h2>Heading</h2>
+                        <h4>Put the some lines here.....</h4>
+                        <a href="#" class="btn">Button</a>
+                    </div>
+                    <div class="image"><img src="./assets/gallery/banner.png" alt=""></div>
+                </div>
+            </div>
+            <i class="fas fa-chevron-left navigation left"></i>
+            <i class="fas fa-chevron-right navigation right"></i>
+            <div class="promo-slides">
+                <div class="promo-slide">
+                    <img src="/assets/gallery/placeholder.png" alt="">
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+<script>
+    var togglelist = document.querySelectorAll("#open-list")
+    for (let i = 0; i < togglelist.length; i++) {
+        togglelist[i].onclick = () => {
+            togglelist[i].nextElementSibling.classList.toggle("active");
+        }
+
+    }
+</script>
+
+</html>

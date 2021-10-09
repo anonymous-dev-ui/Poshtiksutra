@@ -147,13 +147,16 @@
                         </li>
                         <a href="./">
                             <li>Home</li>
+                        </a><a href="./shop.php">
+                            <li>Shop</li>
+                        </a>
+                        <a href="./blog.php">
+                            <li>Blogs</li>
                         </a>
                         <a href="./about.php">
                             <li>About</li>
                         </a>
-                        <a href="./shop.php">
-                            <li>Shop</li>
-                        </a>
+                        
                         <a href="./contact.php">
                             <li>Contact</li>
                         </a>

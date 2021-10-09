@@ -117,7 +117,7 @@
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-1.jpg" alt="">
                                 </a>
                             </div>
@@ -135,7 +135,7 @@
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-2.jpg" alt="">
                                 </a>
                             </div>
@@ -147,13 +147,13 @@
                         <div class="product__catagory--single">
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Essential Oil</a>
+                                <a href="./shop.php" class="product__link">Essential Oil</a>
                                 <span class="product__items--text">3 Products</span>
                             </div>
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-3.jpg" alt="">
                                 </a>
                             </div>
@@ -165,13 +165,13 @@
                         <div class="product__catagory--single">
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Tea</a>
+                                <a href="./shop.php" class="product__link">Tea</a>
                                 <span class="product__items--text">0 Products</span>
                             </div>
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-4.jpg" alt="">
                                 </a>
                             </div>
@@ -183,13 +183,13 @@
                         <div class="product__catagory--single">
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Haldi</a>
+                                <a href="./shop.php" class="product__link">Haldi</a>
                                 <span class="product__items--text">3 Products</span>
                             </div>
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-5.jpg" alt="">
                                 </a>
                             </div>
@@ -201,13 +201,13 @@
                         <div class="product__catagory--single">
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Honey</a>
+                                <a href="./shop.php" class="product__link">Honey</a>
                                 <span class="product__items--text">0 Products</span>
                             </div>
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-6.jpg" alt="">
                                 </a>
                             </div>
@@ -219,13 +219,13 @@
                         <div class="product__catagory--single">
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Ghee</a>
+                                <a href="./shop.php" class="product__link">Ghee</a>
                                 <span class="product__items--text">3 Products</span>
                             </div>
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-7.jpg" alt="">
                                 </a>
                             </div>
@@ -237,13 +237,13 @@
                         <div class="product__catagory--single">
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Garam Masala</a>
+                                <a href="./shop.php" class="product__link">Garam Masala</a>
                                 <span class="product__items--text">0 Products</span>
                             </div>
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-8.jpg" alt="">
                                 </a>
                             </div>
@@ -255,13 +255,13 @@
                         <div class="product__catagory--single">
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Herbal Honey</a>
+                                <a href="./shop.php" class="product__link">Herbal Honey</a>
                                 <span class="product__items--text">2 Products</span>
                             </div>
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-9.jpg" alt="">
                                 </a>
                             </div>
@@ -273,13 +273,13 @@
                         <div class="product__catagory--single">
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Herbal Pak</a>
+                                <a href="./shop.php" class="product__link">Herbal Pak</a>
                                 <span class="product__items--text">2 Products</span>
                             </div>
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-10.jpg" alt="">
                                 </a>
                             </div>
@@ -290,13 +290,13 @@
                         <div class="product__catagory--single">
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Herbal Venager</a>
+                                <a href="./shop.php" class="product__link">Herbal Venager</a>
                                 <span class="product__items--text">2 Products</span>
                             </div>
                             <!-- End Product Content -->
                             <!-- Start Product Image -->
                             <div class="product__img-box product__img-box--catagory">
-                                <a href="product-single-default.html" class="product__img--link">
+                                <a href="./shop.php" class="product__img--link">
                                     <img class="product__img img-fluid" src="assets/img/product/category/category-home-1-img-10.jpg" alt="">
                                 </a>
                             </div>
@@ -340,7 +340,46 @@
                                     <div class="product__box product__default--single text-center">
                                         <!-- Start Product Image -->
                                         <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
+                                            <a href="./product.php" class="product__img--link">
+                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
+                                            </a>
+                                            <!-- Start Procuct Label -->
+                                            <span class="product__label product__label--sale-dis">-34%</span>
+                                            <!-- End Procuct Label -->
+                                            <!-- Start Product Action Link-->
+                                            <ul class="product__action--link pos-absolute">
+                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
+                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
+                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
+                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
+                                            </ul>
+                                            <!-- End Product Action Link -->
+                                        </div>
+                                        <!-- End Product Image -->
+                                        <!-- Start Product Content -->
+                                        <div class="product__content m-t-20">
+                                            <ul class="product__review">
+                                                <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                <li class="product__review--blank"><i class="icon-star"></i></li>
+                                            </ul>
+                                            <a href="./product.php" class="product__link">indica</a>
+                                            <div class="product__price m-t-5">
+                                                <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
+                                                    19.00 <del>
+                                                        29.00</del></span>
+                                            </div>
+                                        </div>
+                                        <!-- End Product Content -->
+                                    </div>
+                                    <!-- End Single Default Product -->
+                                    <!-- Start Single Default Product -->
+                                    <div class="product__box product__default--single text-center">
+                                        <!-- Start Product Image -->
+                                        <div class="product__img-box  pos-relative">
+                                            <a href="./product.php" class="product__img--link">
                                                 <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
                                             </a>
                                             <!-- Start Procuct Label -->
@@ -379,7 +418,7 @@
                                     <div class="product__box product__default--single text-center">
                                         <!-- Start Product Image -->
                                         <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
+                                            <a href="./product.php" class="product__img--link">
                                                 <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
                                             </a>
                                             <!-- Start Procuct Label -->
@@ -418,7 +457,7 @@
                                     <div class="product__box product__default--single text-center">
                                         <!-- Start Product Image -->
                                         <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
+                                            <a href="./product.php" class="product__img--link">
                                                 <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
                                             </a>
                                             <!-- Start Procuct Label -->
@@ -457,7 +496,7 @@
                                     <div class="product__box product__default--single text-center">
                                         <!-- Start Product Image -->
                                         <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
+                                            <a href="./product.php" class="product__img--link">
                                                 <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
                                             </a>
                                             <!-- Start Procuct Label -->
@@ -496,7 +535,7 @@
                                     <div class="product__box product__default--single text-center">
                                         <!-- Start Product Image -->
                                         <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
+                                            <a href="./product.php" class="product__img--link">
                                                 <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
                                             </a>
                                             <!-- Start Procuct Label -->
@@ -535,7 +574,7 @@
                                     <div class="product__box product__default--single text-center">
                                         <!-- Start Product Image -->
                                         <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
+                                            <a href="./product.php" class="product__img--link">
                                                 <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
                                             </a>
                                             <!-- Start Procuct Label -->
@@ -574,46 +613,7 @@
                                     <div class="product__box product__default--single text-center">
                                         <!-- Start Product Image -->
                                         <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">indica</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
-                                                    19.00 <del>
-                                                        29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
+                                            <a href="./product.php" class="product__img--link">
                                                 <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
                                             </a>
                                             <!-- Start Procuct Label -->

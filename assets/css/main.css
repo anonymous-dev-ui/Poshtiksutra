@@ -3828,6 +3828,7 @@ header {
     background-color: #fff;
     position: relative;
     z-index: 10000;
+    transition: 0.3s;
 }
 
 .preheader {

@@ -278,87 +278,103 @@
                     <div class="tab-content tab-animate-zoom">
                         <div class="tab-pane shop-grid" id="sort-grid">
                             <div class="row">
-                                <div class="col-md-4 col-12">
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-6.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul> <!-- End Product Action Link -->
-                                        </div> <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Coconut oil</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fas fa-rupee"></i>19.00 <del><i class="fas fa-rupee"></i>29.00</del></span>
-                                            </div>
-                                        </div> <!-- End Product Content -->
-                                    </div> <!-- End Single Default Product -->
+                                <div class="col-md-4 col-12"> <?php
+                                                                $sql = "SELECT * FROM `product`";
+                                                                $query = mysqli_query($conn, $sql);
+                                                                while ($row = mysqli_fetch_assoc($query)) {
+                                                                ?>
+
+                                        <!-- Start Single Default Product -->
+                                        <div class="product__box product__default--single text-center">
+                                            <!-- Start Product Image -->
+                                            <div class="product__img-box  pos-relative">
+                                                <a href="product.php" class="product__img--link">
+                                                    <img class="product__img img-fluid" src="assets/img/product/gallery/<?php echo $row['featuredimage'] ?>" alt="">
+                                                </a>
+                                                <!-- Start Procuct Label -->
+                                                <span class="product__label product__label--sale-dis">-34%</span>
+                                                <!-- End Procuct Label -->
+                                                <!-- Start Product Action Link-->
+                                                <ul class="product__action--link pos-absolute">
+                                                    <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
+                                                    <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
+                                                    <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
+                                                    <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
+                                                </ul> <!-- End Product Action Link -->
+                                            </div> <!-- End Product Image -->
+                                            <!-- Start Product Content -->
+                                            <div class="product__content m-t-20">
+                                                <ul class="product__review">
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--blank"><i class="icon-star"></i></li>
+                                                </ul>
+                                                <a href="product-single-default.html" class="product__link"><?php echo $row['Product_name'] ?></a>
+                                                <div class="product__price m-t-5">
+                                                    <span class="product__price"><i class="fas fa-rupee"></i><?php echo $row['saleprice'] ?> <del>
+                                                            <?php echo $row['MRP'] ?></del></span>
+                                                </div>
+                                            </div> <!-- End Product Content -->
+                                        </div> <!-- End Single Default Product -->
+                                        <?php } ?>
                                 </div>
                             </div>
                         </div>
                         <div class="tab-pane show active shop-list" id="sort-list">
-                            <div class="row">
-                                <!-- Start Single List Product -->
-                                <div class="col-12">
-                                    <div class="product__box product__box--list">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative text-center">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-5.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-31%</span>
-                                            <!-- End Procuct Label -->
-                                        </div> <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">
-                                                <h5 class="font--regular">Coconut Oil</h5>
-                                            </a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fas fa-rupee"></i>55.00 <del><i class="fas fa-rupee"></i>80.00</del></span>
-                                            </div>
-                                            <div class="product__desc">
-                                                <p>
-                                                    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
-                                                </p>
-                                            </div>
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link-list m-t-30">
-                                                <li><a href="#modalAddCart" data-toggle="modal" class="btn--black btn--black-hover-green">Add to cart</a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                            </ul> <!-- End Product Action Link -->
-                                        </div> <!-- End Product Content -->
-                                    </div>
-                                </div> <!-- End Single List Product -->
-                               
+                            <div class="row"> <?php
+                                                $sql = "SELECT * FROM `product`";
+                                                $query = mysqli_query($conn, $sql);
+                                                while ($row = mysqli_fetch_assoc($query)) {
+                                                ?>
+
+
+                                    <!-- Start Single List Product -->
+                                    <div class="col-12">
+                                        <div class="product__box product__box--list">
+                                            <!-- Start Product Image -->
+                                            <div class="product__img-box  pos-relative text-center">
+                                                <a href="product.php?id=<?php echo $row['id']; ?>" class="product__img--link">
+                                                    <img class="product__img img-fluid" src="assets/img/product/gallery/<?php echo $row['featuredimage'] ?>" alt="">
+                                                </a>
+                                                <!-- Start Procuct Label -->
+                                                <span class="product__label product__label--sale-dis">-31%</span>
+                                                <!-- End Procuct Label -->
+                                            </div> <!-- End Product Image -->
+                                            <!-- Start Product Content -->
+                                            <div class="product__content">
+                                                <ul class="product__review">
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--blank"><i class="icon-star"></i></li>
+                                                </ul>
+                                                <a href="product-single-default.html" class="product__link">
+                                                    <h5 class="font--regular"><?php echo $row['Product_name'] ?></h5>
+                                                </a>
+                                                <div class="product__price m-t-5">
+                                                    <span class="product__price"><i class="fas fa-rupee"></i><?php echo $row['saleprice'] ?> <del>
+                                                            <?php echo $row['MRP'] ?></del></span>
+                                                </div>
+                                                <div class="product__desc">
+                                                    <p>
+                                                        <?php echo $row['metadescription']; ?>
+                                                    </p>
+                                                </div>
+                                                <!-- Start Product Action Link-->
+                                                <ul class="product__action--link-list m-t-30">
+                                                    <li><a href="#modalAddCart" data-toggle="modal" class="btn--black btn--black-hover-green">Add to cart</a></li>
+                                                    <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
+                                                    <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
+                                                </ul> <!-- End Product Action Link -->
+                                            </div> <!-- End Product Content -->
+                                        </div>
+                                    </div> <!-- End Single List Product --><?php }
+
+                                                                            ?>
+
                             </div>
                         </div>
                     </div>

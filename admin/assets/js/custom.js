@@ -1,0 +1,1 @@
+var contentBox = document.querySelector("#content");

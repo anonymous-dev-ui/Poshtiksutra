@@ -1,259 +1,303 @@
    <!-- ::::::  Start  Footer ::::::  -->
    <footer class="footer m-t-100">
-        <div class="container">
-            <!-- Start Footer Top Section -->
-            <div class="footer__top">
-                <div class="row">
-                    <div class="col-lg-4 col-md-5">
-                        <div class="footer__about">
-                            <div class="footer__logo">
-                                <a href="index.html" class="footer__logo-link">
-                                    <img src="assets/img/logo/logo.png" alt="" class="footer__logo-img">
-                                </a>
-                            </div>
-                            <ul class="footer__address">
-                                <li class="footer__address-item"><i class="fa fa-home"></i>India, Gurgaon</li>
-                                <li class="footer__address-item"><i class="fa fa-phone-alt"></i>+01 23456789</li>
-                                <li class="footer__address-item"><i class="fa fa-envelope"></i>support@somemail.com</li>
-                            </ul>
-                            <ul class="footer__social-nav">
-                                <li class="footer__social-list"><a href="#" class="footer__social-link"><i class="fab fa-facebook-f"></i></a></li>
-                                <li class="footer__social-list"><a href="#" class="footer__social-link"><i class="fab fa-twitter"></i></a></li>
-                                <li class="footer__social-list"><a href="#" class="footer__social-link"><i class="fab fa-youtube"></i></a></li>
-                                <li class="footer__social-list"><a href="#" class="footer__social-link"><i class="fab fa-google-plus-g"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6 col-12">
-                        <!-- Start Footer Nav -->
-                        <div class="footer__menu">
-                            <h4 class="footer__nav-title footer__nav-title--dash footer__nav-title--dash-red">INFORMATION</h4>
-                            <ul class="footer__nav">
-                                <li class="footer__list"><a href="" class="footer__link">Delivery Information</a></li>
+       <div class="container">
+           <!-- Start Footer Top Section -->
+           <div class="footer__top">
+               <div class="row">
+                   <div class="col-lg-4 col-md-5">
+                       <div class="footer__about">
+                           <div class="footer__logo">
+                               <a href="index.html" class="footer__logo-link">
+                                   <img src="assets/img/logo/logo.png" alt="" class="footer__logo-img">
+                               </a>
+                           </div>
+                           <ul class="footer__address">
+                               <li class="footer__address-item"><i class="fa fa-home"></i>India, Gurgaon</li>
+                               <li class="footer__address-item"><i class="fa fa-phone-alt"></i>+01 23456789</li>
+                               <li class="footer__address-item"><i class="fa fa-envelope"></i>support@somemail.com</li>
+                           </ul>
+                           <ul class="footer__social-nav">
+                               <li class="footer__social-list"><a href="#" class="footer__social-link"><i class="fab fa-facebook-f"></i></a></li>
+                               <li class="footer__social-list"><a href="#" class="footer__social-link"><i class="fab fa-twitter"></i></a></li>
+                               <li class="footer__social-list"><a href="#" class="footer__social-link"><i class="fab fa-youtube"></i></a></li>
+                               <li class="footer__social-list"><a href="#" class="footer__social-link"><i class="fab fa-google-plus-g"></i></a></li>
+                           </ul>
+                       </div>
+                   </div>
+                   <div class="col-lg-2 col-md-3 col-sm-6 col-12">
+                       <!-- Start Footer Nav -->
+                       <div class="footer__menu">
+                           <h4 class="footer__nav-title footer__nav-title--dash footer__nav-title--dash-red">INFORMATION</h4>
+                           <ul class="footer__nav">
+                               <li class="footer__list"><a href="" class="footer__link">Delivery Information</a></li>
                                <li class="footer__list"><a href="" class="footer__link">Helps & Faqs</a></li>
-                                <li class="footer__list"><a href="" class="footer__link">Orders & Returns</a></li>
-                                <li class="footer__list"><a href="" class="footer__link"> Refund & Returns</a></li>
-                            </ul>
-                        </div>
-                        <!-- End Footer Nav -->
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6 col-12">
-                        <div class="footer__menu">
-                            <h4 class="footer__nav-title footer__nav-title--dash footer__nav-title--dash-red">OUR COMPANY</h4>
-                            <ul class="footer__nav">
+                               <li class="footer__list"><a href="" class="footer__link">Orders & Returns</a></li>
+                               <li class="footer__list"><a href="" class="footer__link"> Refund & Returns</a></li>
+                           </ul>
+                       </div>
+                       <!-- End Footer Nav -->
+                   </div>
+                   <div class="col-lg-2 col-md-3 col-sm-6 col-12">
+                       <div class="footer__menu">
+                           <h4 class="footer__nav-title footer__nav-title--dash footer__nav-title--dash-red">OUR COMPANY</h4>
+                           <ul class="footer__nav">
                                <li class="footer__list"><a href="" class="footer__link">Legal Notice</a></li>
-                                <li class="footer__list"><a href="" class="footer__link">Sitemap</a></li>
-                                <li class="footer__list"><a href="" class="footer__link">Secure payment</a></li>
-                                <li class="footer__list"><a href="" class="footer__link">Blog</a></li>
-                                <li class="footer__list"><a href="" class="footer__link">About us</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6 col-12">
-                        <div class="footer__menu">
-                            <h4 class="footer__nav-title footer__nav-title--dash footer__nav-title--dash-red">MY ACCOUNT</h4>
-                            <ul class="footer__nav">
-                                <li class="footer__list"><a href="" class="footer__link">Dashboard</a></li>
-                                <li class="footer__list"><a href="" class="footer__link">Order Track</a></li>
-                                <li class="footer__list"><a href="" class="footer__link">Wishlist</a></li>
-                                <li class="footer__list"><a href="" class="footer__link">Cart</a></li>
-                                <li class="footer__list"><a href="" class="footer__link">Logout</a></li>
-                                  </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6 col-12">
-                        <div class="footer__menu">
-                            <h4 class="footer__nav-title footer__nav-title--dash footer__nav-title--dash-red">OPENING TIME</h4>
-                            <ul class="footer__nav">
-                                <li class="footer__list">Mon - Fri: 8AM - 10PM</li>
-                                <li class="footer__list">Sat: 9AM-8PM</li>
-                                <li class="footer__list">Suns: 14hPM-18hPM</li>
-                                <li class="footer__list">Mon - Fri: 8AM - 10PM</li>
-                                <li class="footer__list">We Work All The Holidays</li>
-                                <li class="footer__list"><a href="" class="footer__link font--bold">Download our app</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Footer Top Section -->
-            <!-- Start Footer Bottom Section -->
-            <div class="footer__bottom">
-                <div class="row">
-                    <div class="col-lg-8 col-md-6 col-12">
-                        <!-- Start Footer Copyright Text -->
-                        <div class="footer__copyright-text">
-                            <p>All Rights Reserved</p>
-                        </div>
-                        <!-- End Footer Copyright Text -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <!-- Start Footer Payment Logo -->
-                        <div class="footer__payment">
-                            <a href="#" class="footer__payment-link">
-                                <img src="assets/img/company-logo/payment.png" alt="" class="footer__payment-img">
-                            </a>
-                        </div>
-                        <!-- End Footer Payment Logo -->
-                    </div>
-                </div>
-            </div>
-            <!-- End Footer Bottom Section -->
-        </div>
-    </footer>
-    <!-- ::::::  End  Footer ::::::  -->
+                               <li class="footer__list"><a href="" class="footer__link">Sitemap</a></li>
+                               <li class="footer__list"><a href="" class="footer__link">Secure payment</a></li>
+                               <li class="footer__list"><a href="" class="footer__link">Blog</a></li>
+                               <li class="footer__list"><a href="" class="footer__link">About us</a></li>
+                           </ul>
+                       </div>
+                   </div>
+                   <div class="col-lg-2 col-md-3 col-sm-6 col-12">
+                       <div class="footer__menu">
+                           <h4 class="footer__nav-title footer__nav-title--dash footer__nav-title--dash-red">MY ACCOUNT</h4>
+                           <ul class="footer__nav">
+                               <li class="footer__list"><a href="" class="footer__link">Dashboard</a></li>
+                               <li class="footer__list"><a href="" class="footer__link">Order Track</a></li>
+                               <li class="footer__list"><a href="" class="footer__link">Wishlist</a></li>
+                               <li class="footer__list"><a href="" class="footer__link">Cart</a></li>
+                               <li class="footer__list"><a href="" class="footer__link">Logout</a></li>
+                           </ul>
+                       </div>
+                   </div>
+                   <div class="col-lg-2 col-md-3 col-sm-6 col-12">
+                       <div class="footer__menu">
+                           <h4 class="footer__nav-title footer__nav-title--dash footer__nav-title--dash-red">OPENING TIME</h4>
+                           <ul class="footer__nav">
+                               <li class="footer__list">Mon - Fri: 8AM - 10PM</li>
+                               <li class="footer__list">Sat: 9AM-8PM</li>
+                               <li class="footer__list">Suns: 14hPM-18hPM</li>
+                               <li class="footer__list">Mon - Fri: 8AM - 10PM</li>
+                               <li class="footer__list">We Work All The Holidays</li>
+                               <li class="footer__list"><a href="" class="footer__link font--bold">Download our app</a></li>
+                           </ul>
+                       </div>
+                   </div>
+               </div>
+           </div>
+           <!-- End Footer Top Section -->
+           <!-- Start Footer Bottom Section -->
+           <div class="footer__bottom">
+               <div class="row">
+                   <div class="col-lg-8 col-md-6 col-12">
+                       <!-- Start Footer Copyright Text -->
+                       <div class="footer__copyright-text">
+                           <p>All Rights Reserved</p>
+                       </div>
+                       <!-- End Footer Copyright Text -->
+                   </div>
+                   <div class="col-lg-4 col-md-6 col-12">
+                       <!-- Start Footer Payment Logo -->
+                       <div class="footer__payment">
+                           <a href="#" class="footer__payment-link">
+                               <img src="assets/img/company-logo/payment.png" alt="" class="footer__payment-img">
+                           </a>
+                       </div>
+                       <!-- End Footer Payment Logo -->
+                   </div>
+               </div>
+           </div>
+           <!-- End Footer Bottom Section -->
+       </div>
+   </footer>
+   <!-- ::::::  End  Footer ::::::  -->
 
-    <!-- material-scrolltop button -->
-    <button class="material-scrolltop" type="button"></button>
+   <!-- material-scrolltop button -->
+   <button class="material-scrolltop" type="button"></button>
 
-    <!-- Start Modal Add cart -->
-    <div class="modal fade" id="modalAddCart" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog  modal-dialog-centered modal-xl" role="document">
-            <div class="modal-content">
-                <div class="modal-body">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col text-right">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true"> <i class="fal fa-times"></i></span>
-                            </button>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-7">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="modal__product-img">
-                                            <img class="img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-8">
-                                        <div class="link--green link--icon-left"><i class="fal fa-check-square"></i>Added to cart successfully!</div>
-                                        <div class="modal__product-cart-buttons m-tb-15">
-                                            <a href="cart.html" class="btn btn--box  btn--tiny btn--green btn--green-hover-black btn--uppercase">View Cart</a>
-                                            <a href="checkout.html" class="btn btn--box  btn--tiny btn--green btn--green-hover-black btn--uppercaset">Checkout</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-5 modal__border">
-                                <ul class="modal__product-shipping-info">
-                                    <li class="link--icon-left"><i class="icon-shopping-cart"></i> There Are 5 Items In Your Cart.</li>
-                                    <li>TOTAL PRICE: <span><i class="fas fa-rupee"></i>187.00</span></li>
-                                    <li><a href="#" class="btn text-underline color-green" data-dismiss="modal">CONTINUE SHOPPING</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Modal Add cart -->
+   <!-- Start Modal Add cart -->
+   <div class="modal fade" id="modalAddCart" tabindex="-1" role="dialog" aria-hidden="true">
+       <div class="modal-dialog  modal-dialog-centered modal-xl" role="document">
+           <div class="modal-content">
+               <div class="modal-body">
+                   <div class="container-fluid">
+                       <div class="row">
+                           <div class="col text-right">
+                               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                   <span aria-hidden="true"> <i class="fal fa-times"></i></span>
+                               </button>
+                           </div>
+                       </div>
+                       <div class="row">
+                           <div class="col-md-7">
+                               <div class="row">
+                                   <div class="col-md-4">
+                                       <div class="modal__product-img">
+                                           <img class="img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
+                                       </div>
+                                   </div>
+                                   <div class="col-md-8">
+                                       <div class="link--green link--icon-left"><i class="fal fa-check-square"></i>Added to cart successfully!</div>
+                                       <div class="modal__product-cart-buttons m-tb-15">
+                                           <a href="cart.html" class="btn btn--box  btn--tiny btn--green btn--green-hover-black btn--uppercase">View Cart</a>
+                                           <a href="checkout.html" class="btn btn--box  btn--tiny btn--green btn--green-hover-black btn--uppercaset">Checkout</a>
+                                       </div>
+                                   </div>
+                               </div>
+                           </div>
+                           <div class="col-md-5 modal__border">
+                               <ul class="modal__product-shipping-info">
+                                   <li class="link--icon-left"><i class="icon-shopping-cart"></i> There Are 5 Items In Your Cart.</li>
+                                   <li>TOTAL PRICE: <span><i class="fas fa-rupee"></i>187.00</span></li>
+                                   <li><a href="#" class="btn text-underline color-green" data-dismiss="modal">CONTINUE SHOPPING</a></li>
+                               </ul>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+   <!-- End Modal Add cart -->
 
-    <!-- Start Modal Quickview cart -->
-    <div class="modal fade" id="modalQuickView" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog  modal-dialog-centered" role="document">
-            <div class="modal-content">
-                <div class="modal-body">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col text-right">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true"> <i class="fal fa-times"></i></span>
-                                </button>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="product-gallery-box m-b-60">
-                                    <div class="modal-product-image--large">
-                                        <img class="img-fluid" src="assets/img/product/gallery/gallery-large/product-gallery-large-1.jpg" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="product-details-box">
-                                    <h5 class="title title--normal m-b-20">Coconet Oil</h5>
-                                    <div class="product__price">
-                                        <span class="product__price-del"><i class="fas fa-rupee"></i>35.90</span>
-                                        <span class="product__price-reg"><i class="fas fa-rupee"></i>31.69</span>
-                                    </div>
-                                    <ul class="product__review m-t-15">
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--blank"><i class="icon-star"></i></li>
-                                    </ul>
-                                    <div class="product__desc m-t-25 m-b-30">
-                                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and
-                                            trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will</p>
-                                    </div>
+   <!-- Start Modal Quickview cart -->
+   <div class="modal fade" id="modalQuickView" tabindex="-1" role="dialog" aria-hidden="true">
+       <div class="modal-dialog  modal-dialog-centered" role="document">
+           <div class="modal-content">
+               <div class="modal-body">
+                   <div class="container-fluid">
+                       <div class="row">
+                           <div class="col text-right">
+                               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                   <span aria-hidden="true"> <i class="fal fa-times"></i></span>
+                               </button>
+                           </div>
+                       </div>
+                       <div class="row">
+                           <div class="col-md-6">
+                               <div class="product-gallery-box m-b-60">
+                                   <div class="modal-product-image--large">
+                                       <img class="img-fluid" src="assets/img/product/gallery/gallery-large/product-gallery-large-1.jpg" alt="">
+                                   </div>
+                               </div>
+                           </div>
+                           <div class="col-md-6">
+                               <div class="product-details-box">
+                                   <h5 class="title title--normal m-b-20">Coconet Oil</h5>
+                                   <div class="product__price">
+                                       <span class="product__price-del"><i class="fas fa-rupee"></i>35.90</span>
+                                       <span class="product__price-reg"><i class="fas fa-rupee"></i>31.69</span>
+                                   </div>
+                                   <ul class="product__review m-t-15">
+                                       <li class="product__review--fill"><i class="icon-star"></i></li>
+                                       <li class="product__review--fill"><i class="icon-star"></i></li>
+                                       <li class="product__review--fill"><i class="icon-star"></i></li>
+                                       <li class="product__review--fill"><i class="icon-star"></i></li>
+                                       <li class="product__review--blank"><i class="icon-star"></i></li>
+                                   </ul>
+                                   <div class="product__desc m-t-25 m-b-30">
+                                       <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and
+                                           trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will</p>
+                                   </div>
 
-                                    <div class="product-var p-t-30">
-                                        <div class="product-quantity product-var__item d-flex align-items-center flex-wrap">
-                                            <span class="product-var__text">Quantity: </span>
-                                            <form class="modal-quantity-scale m-l-20">
-                                                <div class="value-button" id="modal-decrease" onclick="decreaseValueModal()">-</div>
-                                                <input type="number" id="modal-number" value="1" />
-                                                <div class="value-button" id="modal-increase" onclick="increaseValueModal()">+</div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                   <div class="product-var p-t-30">
+                                       <div class="product-quantity product-var__item d-flex align-items-center flex-wrap">
+                                           <span class="product-var__text">Quantity: </span>
+                                           <form class="modal-quantity-scale m-l-20">
+                                               <div class="value-button" id="modal-decrease" onclick="decreaseValueModal()">-</div>
+                                               <input type="number" id="modal-number" value="1" />
+                                               <div class="value-button" id="modal-increase" onclick="increaseValueModal()">+</div>
+                                           </form>
+                                       </div>
+                                   </div>
 
-                                    <div class="product-links">
-                                        <div class="product-social m-tb-30">
-                                            <span>SHARE THIS PRODUCT</span>
-                                            <ul class="product-social-link">
-                                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Modal Quickview cart -->
+                                   <div class="product-links">
+                                       <div class="product-social m-tb-30">
+                                           <span>SHARE THIS PRODUCT</span>
+                                           <ul class="product-social-link">
+                                               <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                               <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                               <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                               <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                           </ul>
+                                       </div>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </div>
+   <!-- End Modal Quickview cart -->
+<!-- AOS  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+   <script>
+   AOS.init();
 
+// You can also pass an optional settings object
+// below listed default settings
+AOS.init({
+  // Global settings:
+  disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+  startEvent: 'DOMContentLoaded', // name of the event dispatched on the document, that AOS should initialize on
+  initClassName: 'aos-init', // class applied after initialization
+  animatedClassName: 'aos-animate', // class applied on animation
+  useClassNames: false, // if true, will add content of `data-aos` as classes on scroll
+  disableMutationObserver: false, // disables automatic mutations' detections (advanced)
+  debounceDelay: 50, // the delay on debounce used while resizing window (advanced)
+  throttleDelay: 99, // the delay on throttle used while scrolling the page (advanced)
+  
 
-    <!-- Vendor JS Files -->
-    <script src="assets/js/vendor/jquery-3.5.1.min.js"></script>
-    <script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
-    <script src="assets/js/vendor/jquery-ui.min.js"></script>
-    <script src="assets/js/vendor/bootstrap.bundle.min.js"></script>
+  // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
+  offset: 120, // offset (in px) from the original trigger point
+  delay: 0, // values from 0 to 3000, with step 50ms
+  duration: 400, // values from 0 to 3000, with step 50ms
+  easing: 'ease', // default easing for AOS animations
+  once: false, // whether animation should happen only once - while scrolling down
+  mirror: false, // whether elements should animate out while scrolling past them
+  anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
 
-    <!-- Plugins JS Files -->
-    <script src="assets/js/plugin/slick.min.js"></script>
-    <script src="assets/js/plugin/jquery.countdown.min.js"></script>
-    <script src="assets/js/plugin/material-scrolltop.js"></script>
-    <script src="assets/js/plugin/price_range_script.js"></script>
-    <script src="assets/js/plugin/in-number.js"></script>
-    <script src="assets/js/plugin/jquery.elevateZoom-3.0.8.min.js"></script>
-    <script src="assets/js/plugin/venobox.min.js"></script>
-    <script src="assets/js/plugin/jquery.waypoints.js"></script>
-    <script src="assets/js/plugin/jquery.lineProgressbar.js"></script>
-<script>var togglelist = document.querySelectorAll("#open-list")
-for (let i = 0; i < togglelist.length; i++) {
-    togglelist[i].onclick = () => {
-        togglelist[i].classList.toggle("active");
-        togglelist[i].nextElementSibling.classList.toggle("active");
-    }
+});
+       var togglelist = document.querySelectorAll("#open-list")
+       for (let i = 0; i < togglelist.length; i++) {
+           togglelist[i].onclick = () => {
+               togglelist[i].classList.toggle("active");
+               togglelist[i].nextElementSibling.classList.toggle("active");
+           }
+           togglelist[i].addEventListener('mouseover',function(){
 
-}</script>
-    <!-- Use the minified version files listed below for better performance and remove the files listed above -->
-    <!-- <script src="assets/js/vendor/vendor.min.js"></script>
+            togglelist[i].classList.toggle("active");
+               togglelist[i].nextElementSibling.classList.toggle("active");
+           })
+
+       }// When the user scrolls down 50px from the top of the document, resize the header's font size
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    document.getElementById("header").classList.add("sticky");
+  } else {
+    document.getElementById("header").classList.remove("sticky");
+  }
+}
+   </script>
+
+   <!-- Vendor JS Files -->
+   <script src="assets/js/vendor/jquery-3.5.1.min.js"></script>
+   <script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
+   <script src="assets/js/vendor/jquery-ui.min.js"></script>
+   <script src="assets/js/vendor/bootstrap.bundle.min.js"></script>
+
+   <!-- Plugins JS Files -->
+   <script src="assets/js/plugin/slick.min.js"></script>
+   <script src="assets/js/plugin/jquery.countdown.min.js"></script>
+   <script src="assets/js/plugin/material-scrolltop.js"></script>
+   <script src="assets/js/plugin/price_range_script.js"></script>
+   <script src="assets/js/plugin/in-number.js"></script>
+   <script src="assets/js/plugin/jquery.elevateZoom-3.0.8.min.js"></script>
+   <script src="assets/js/plugin/venobox.min.js"></script>
+   <script src="assets/js/plugin/jquery.waypoints.js"></script>
+   <script src="assets/js/plugin/jquery.lineProgressbar.js"></script>
+  
+   <!-- Use the minified version files listed below for better performance and remove the files listed above -->
+   <!-- <script src="assets/js/vendor/vendor.min.js"></script>
     <script src="assets/js/plugin/plugins.min.js"></script> -->
 
-    <!-- Main js file that contents all jQuery plugins activation. -->
-    <script src="assets/js/main.js"></script>
-</body>
+   <!-- Main js file that contents all jQuery plugins activation. -->
+   <script src="assets/js/main.js"></script>
+   </body>
 
-</html>
+   </html>

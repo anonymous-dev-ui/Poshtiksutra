@@ -2,10 +2,10 @@
 <!-- :::::: Start Main Container Wrapper :::::: -->
 <main id="main-container" class="main-container">
     <!-- ::::::  Start Hero Section  ::::::  -->
-    <div class="hero slider-dot-fix slider-dot slider-dot-fix slider-dot--center slider-dot-size--medium slider-dot-circle  slider-dot-style--fill slider-dot-style--fill-white-active-green dot-gap__X--10">
+    <div class="hero slider-dot-fix slider-dot slider-dot-fix slider-dot--center slider-dot-size--medium slider-dot-circle  slider-dot-style--fill slider-dot-style--fill-white-active-green dot-gap__X--10" data-aos="fade-up">
         <!-- Start Single Hero Slide -->
         <div class="hero-slider">
-            <img src="assets/img/hero/hero-home-1-img-1.jpg" alt="">
+            <img src="assets/img/hero/banner-1.jpeg" alt="">
             <div class="hero__content">
                 <div class="container">
                     <div class="row">
@@ -14,7 +14,7 @@
                                 <h6 class="title__hero title__hero--tiny text-uppercase">100% Healthy & Affordable</h6>
                                 <h1 class="title__hero title__hero--xlarge font--regular text-uppercase">Organic <br> Vegetables</h1>
                                 <h4 class="title__hero title__hero--small font--regular">Small Changes Big Difference</h4>
-                                <a href="product-single-default.html" class="btn btn--large btn--radius btn--black btn--black-hover-green font--bold text-uppercase">Shop now</a>
+                                <a href="./shop.php" class="btn btn--large btn--radius btn--black btn--black-hover-green font--bold text-uppercase">Shop now</a>
                             </div>
                         </div>
                     </div>
@@ -24,7 +24,7 @@
         <!-- End Single Hero Slide -->
         <!-- Start Single Hero Slide -->
         <div class="hero-slider">
-            <img src="assets/img/hero/hero-home-1-img-2.jpg" alt="">
+            <img src="assets/img/hero/poshtik bnnr-1.jpg" alt="">
             <div class="hero__content">
                 <div class="container">
                     <div class="row">
@@ -33,7 +33,26 @@
                                 <h6 class="title__hero title__hero--tiny text-uppercase">100% Healthy & Affordable</h6>
                                 <h1 class="title__hero title__hero--xlarge font--regular text-uppercase">Organic <br> fresh fruits</h1>
                                 <h4 class="title__hero title__hero--small font--regular">Small Changes Big Difference</h4>
-                                <a href="product-single-default.html" class="btn btn--large btn--radius btn--black btn--black-hover-green font--bold text-uppercase">Shop now</a>
+                                <a href="./shop.php" class="btn btn--large btn--radius btn--black btn--black-hover-green font--bold text-uppercase">Shop now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Single Hero Slide -->
+        <!-- Start Single Hero Slide -->
+        <div class="hero-slider">
+            <img src="./assets/img/hero/bnnr 2 postik (1).jpg" alt="">
+            <div class="hero__content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 col-lg-8">
+                            <div class="hero__content--inner">
+                                <h6 class="title__hero title__hero--tiny text-uppercase">100% Healthy & Affordable</h6>
+                                <h1 class="title__hero title__hero--xlarge font--regular text-uppercase">Organic <br> fresh fruits</h1>
+                                <h4 class="title__hero title__hero--small font--regular">Small Changes Big Difference</h4>
+                                <a href="./shop.php" class="btn btn--large btn--radius btn--black btn--black-hover-green font--bold text-uppercase">Shop now</a>
                             </div>
                         </div>
                     </div>
@@ -45,22 +64,22 @@
     <!-- ::::::  End Hero Section  ::::::  -->
 
     <!-- ::::::  Start banner Section  ::::::  -->
-    <div class="banner m-t-30">
+    <div class="banner m-t-30" data-aos="fade-up">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-6 col-12">
                     <div class="banner__box">
                         <!-- Start Single Banner Item -->
                         <div class="banner__box--single banner__box--single-text-style-1 pos-relative">
-                            <a href="product-single-default.html" class="banner__link">
-                                <img src="assets/img/banner/size-wide/banner-home-1-img-1-wide.jpg" alt="" class="banner__img">
-                            </a>
+                            <a href="./shop.php" class="banner__link">
+
+                                <img src="./assets/img/hero/banner-1.jpeg" alt="" class="banner__img img_responsive"> </a>
                             <div class="banner__content banner__content--center pos-absolute">
                                 <h6 class="banner__title  font--regular letter-spacing--4  text-center m-b-10">Green Vegetable</h6>
                                 <h2 class="banner__title banner__title--large font--medium letter-spacing--4  text-uppercase">100% ORGANIC</h2>
                                 <h6 class="banner__title font--regular letter-spacing--4  text-center m-b-20">Healthy Nutrition</h6>
                                 <div class="text-center">
-                                    <a href="product-single-default.html" class="btn btn--medium btn--radius btn--transparent btn--border-black btn--border-black-hover-green font--light text-uppercase">Buy Now</a>
+                                    <a href="./shop.php" class="btn btn--medium btn--radius btn--transparent btn--border-black btn--border-black-hover-green font--light text-uppercase">Buy Now</a>
                                 </div>
                             </div>
                         </div>
@@ -71,15 +90,15 @@
                     <div class="banner__box">
                         <!-- Start Single Banner Item -->
                         <div class="banner__box--single banner__box--single-text-style-1 pos-relative">
-                            <a href="product-single-default.html" class="banner__link">
-                                <img src="assets/img/banner/size-wide/banner-home-1-img-2-wide.jpg" alt="" class="banner__img">
+                            <a href="./shop.php" class="banner__link">
+                                <img src="./assets/img/hero/bnnr 2 postik (1).jpg" alt="" class="banner__img img_responsive">
                             </a>
                             <div class="banner__content banner__content--center pos-absolute">
                                 <h6 class="banner__title letter-spacing--4 font--regular text-center m-b-10">Fresh herbs</h6>
                                 <h2 class="banner__title banner__title--large letter-spacing--4 font--medium text-uppercase">SPINACH</h2>
                                 <h6 class="banner__title letter-spacing--4 font--regular text-center m-b-20">Healthy Food</h6>
                                 <div class="text-center">
-                                    <a href="product-single-default.html" class="btn btn--medium btn--radius btn--transparent btn--border-black btn--border-black-hover-green font--light text-uppercase">Buy Now</a>
+                                    <a href="./shop.php" class="btn btn--medium btn--radius btn--transparent btn--border-black btn--border-black-hover-green font--light text-uppercase">Buy Now</a>
                                 </div>
                             </div>
                         </div>
@@ -99,7 +118,7 @@
                     <!-- Start Section Title -->
                     <div class="section-content section-content--border m-b-35">
                         <h5 class="section-content__title">Top categories</h5>
-                        <a href="shop-sidebar-grid-left.html" class="btn btn--icon-left btn--small btn--radius btn--transparent btn--border-green btn--border-green-hover-green font--regular text-capitalize">More categories <i class="fal fa-angle-right"></i></a>
+                        <a href="./shop.php" class="btn btn--icon-left btn--small btn--radius btn--transparent btn--border-green btn--border-green-hover-green font--regular text-capitalize">More categories <i class="fal fa-angle-right"></i></a>
                     </div>
                     <!-- End Section Title -->
                 </div>
@@ -108,10 +127,10 @@
                 <div class="col-12">
                     <div class="product__catagory">
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Edible Oil</a>
+                                <a href="./shop.php" class="product__link">Edible Oil</a>
                                 <span class="product__items--text">2 Products</span>
                             </div>
                             <!-- End Product Content -->
@@ -126,10 +145,10 @@
                         <!-- End Single Default Product -->
 
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
-                                <a href="product-single-default.html" class="product__link">Herbal</a>
+                                <a href="./shop.php" class="product__link">Herbal</a>
                                 <span class="product__items--text">2 Products</span>
                             </div>
                             <!-- End Product Content -->
@@ -144,7 +163,7 @@
                         <!-- End Single Default Product -->
 
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
                                 <a href="./shop.php" class="product__link">Essential Oil</a>
@@ -162,7 +181,7 @@
                         <!-- End Single Default Product -->
 
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
                                 <a href="./shop.php" class="product__link">Tea</a>
@@ -180,7 +199,7 @@
                         <!-- End Single Default Product -->
 
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
                                 <a href="./shop.php" class="product__link">Haldi</a>
@@ -198,7 +217,7 @@
                         <!-- End Single Default Product -->
 
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
                                 <a href="./shop.php" class="product__link">Honey</a>
@@ -216,7 +235,7 @@
                         <!-- End Single Default Product -->
 
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
                                 <a href="./shop.php" class="product__link">Ghee</a>
@@ -234,7 +253,7 @@
                         <!-- End Single Default Product -->
 
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
                                 <a href="./shop.php" class="product__link">Garam Masala</a>
@@ -252,7 +271,7 @@
                         <!-- End Single Default Product -->
 
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
                                 <a href="./shop.php" class="product__link">Herbal Honey</a>
@@ -270,7 +289,7 @@
                         <!-- End Single Default Product -->
 
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
                                 <a href="./shop.php" class="product__link">Herbal Pak</a>
@@ -287,7 +306,7 @@
                         </div>
                         <!-- End Single Default Product -->
                         <!-- Start Single catagory Product -->
-                        <div class="product__catagory--single">
+                        <div class="product__catagory--single" data-aos="fade-up" data-aos-anchor-placement="top-bottom">>
                             <!-- Start Product Content -->
                             <div class="product__content product__content--catagory">
                                 <a href="./shop.php" class="product__link">Herbal Venager</a>
@@ -320,9 +339,9 @@
                     <div class="section-content section-content--border m-b-35">
                         <h5 class="section-content__title">Best selling </h5>
                         <ul class="tablist tablist--style-blue tablist--style-gap-20 nav">
-                            <li><a class="nav-link active" data-toggle="tab" href="#fruits">Herbal Venager</a></li>
-                            <li><a class="nav-link" data-toggle="tab" href="#milk">Honey</a></li>
-                            <li><a class="nav-link" data-toggle="tab" href="#fish">Essential Oil</a></li>
+                            <li><a class="nav-link active" data-toggle="tab" href="#herbalvenagar">Herbal Venager</a></li>
+                            <li><a class="nav-link" data-toggle="tab" href="#honey">Honey</a></li>
+                            <li><a class="nav-link" data-toggle="tab" href="#essentialoil">Essential Oil</a></li>
                         </ul>
                     </div>
                     <!-- End Section Title -->
@@ -332,1114 +351,176 @@
                 <div class="col-12">
                     <div class="tab-content tab-animate-zoom">
                         <!-- Start Single Tab Item -->
-                        <div class="tab-pane show active" id="fruits">
+                        <div class="tab-pane show active" id="herbalvenagar">
                             <div class="default-slider default-slider--hover-bg-red product-default-slider">
                                 <div class="product-default-slider-4grid-2rows gap__col--30 gap__row--40">
+                                    <?php
+                                    $sql = "SELECT * FROM `product` WHERE `category`='herbalvenagar'";
+                                    $query = mysqli_query($conn, $sql);
+                                    while ($row = mysqli_fetch_assoc($query)) {
+                                    ?>
 
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="./product.php" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="./product.php" class="product__link">indica</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
-                                                    19.00 <del>
-                                                        29.00</del></span>
+                                        <!-- Start Single Default Product -->
+                                        <div class="product__box product__default--single text-center">
+                                            <!-- Start Product Image -->
+                                            <div class="product__img-box  pos-relative">
+                                                <a href="product.php?id=<?php echo $row['id']; ?>" class="product__img--link">
+                                                    <img class="product__img img-fluid" src="assets/img/product/gallery/<?php echo $row['featuredimage'] ?>" alt="">
+                                                </a>
+                                                <!-- Start Procuct Label -->
+                                                <span class="product__label product__label--sale-dis">5%</span>
+                                                <!-- End Procuct Label -->
+                                                <!-- Start Product Action Link-->
+                                                <ul class="product__action--link pos-absolute">
+                                                    <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
+                                                    <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
+                                                    <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
+                                                    <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
+                                                </ul>
+                                                <!-- End Product Action Link -->
                                             </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="./product.php" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">indica</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
-                                                    19.00 <del>
-                                                        29.00</del></span>
+                                            <!-- End Product Image -->
+                                            <!-- Start Product Content -->
+                                            <div class="product__content m-t-20">
+                                                <ul class="product__review">
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--blank"><i class="icon-star"></i></li>
+                                                </ul>
+                                                <a href="product.php?id=<?php echo $row['id']; ?>" class="product__link"><?php echo $row['Product_name'] ?></a>
+                                                <div class="product__price m-t-5">
+                                                    <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
+                                                    <?php echo $row['saleprice'] ?> <del>
+                                                        <?php echo $row['MRP'] ?></del></span>
+                                                </div>
                                             </div>
+                                            <!-- End Product Content -->
                                         </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="./product.php" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">indica</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
-                                                    19.00 <del>
-                                                        29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="./product.php" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">indica</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
-                                                    19.00 <del>
-                                                        29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="./product.php" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">indica</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
-                                                    19.00 <del>
-                                                        29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="./product.php" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">indica</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
-                                                    19.00 <del>
-                                                        29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="./product.php" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">indica</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
-                                                    19.00 <del>
-                                                        29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="./product.php" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">indica</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
-                                                    19.00 <del>
-                                                        29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
+                                        <!-- End Single Default Product --><?php }
 
-
+                                                                            ?>
 
                                 </div>
                             </div>
                         </div>
                         <!-- End Single Tab Item -->
                         <!-- Start Single Tab Item -->
-                        <div class="tab-pane" id="milk">
+                        <div class="tab-pane show" id="honey">
                             <div class="default-slider default-slider--hover-bg-red product-default-slider">
-                                <div class="product-default-slider-4grid-2rows gap__col--30 gap__row--40">
+                            <div class="product-default-slider-4grid-2rows gap__col--30 gap__row--40">
+                                    <?php
+                                    $sql = "SELECT * FROM `product` WHERE `category`='honey'";
+                                    $query = mysqli_query($conn, $sql);
+                                    while ($row = mysqli_fetch_assoc($query)) {
+                                        // $percent = (($row['MRP'] - $row['saleprice']) * 100) / $row['MRP'];
+                                    ?>
 
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-6.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Fresh green apple</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$19.00 <del>$29.00</del></span>
+                                        <!-- Start Single Default Product -->
+                                        <div class="product__box product__default--single text-center">
+                                            <!-- Start Product Image -->
+                                            <div class="product__img-box  pos-relative">
+                                                <a href="product.php?id=<?php echo $row['id']; ?>" class="product__img--link">
+                                                    <img class="product__img img-fluid" src="assets/img/product/gallery/<?php echo $row['featuredimage'] ?>" alt="">
+                                                </a>
+                                                <!-- Start Procuct Label -->
+                                                <span class="product__label product__label--sale-dis">5%</span>
+                                                <!-- End Procuct Label -->
+                                                <!-- Start Product Action Link-->
+                                                <ul class="product__action--link pos-absolute">
+                                                    <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
+                                                    <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
+                                                    <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
+                                                    <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
+                                                </ul>
+                                                <!-- End Product Action Link -->
                                             </div>
+                                            <!-- End Product Image -->
+                                            <!-- Start Product Content -->
+                                            <div class="product__content m-t-20">
+                                                <ul class="product__review">
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--blank"><i class="icon-star"></i></li>
+                                                </ul>
+                                                <a href="product.php?id=<?php echo $row['id']; ?>" class="product__link"><?php echo $row['Product_name'] ?></a>
+                                                <div class="product__price m-t-5">
+                                                    <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
+                                                    <?php echo $row['saleprice'] ?> <del>
+                                                        <?php echo $row['MRP'] ?></del></span>
+                                                </div>
+                                            </div>
+                                            <!-- End Product Content -->
                                         </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
+                                        <!-- End Single Default Product --><?php }
 
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-7.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Juice fresh orange</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$19.00 <del>$29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-8.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-35%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Countdown -->
-                                            <div class="product__counter-box">
-                                                <div class="product__counter-item" data-countdown="2021/03/01"></div>
-                                            </div>
-                                            <!-- End Product Countdown -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Best ripe grapes</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$39.00 <del>$60.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-9.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-out">Soldout</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Cow fresh milk</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$55.00 <del>$75.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-10.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-out">Soldout</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Fresh Red Tomato</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$10.00</span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Fresh green vegetable</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$19.00 <del>$29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-2.jpg" alt="">
-                                            </a>
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Fresh river fish</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$25.00</span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-3.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-10%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Countdown -->
-                                            <div class="product__counter-box">
-                                                <div class="product__counter-item" data-countdown="2023/09/27"></div>
-                                            </div>
-                                            <!-- End Product Countdown -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Fresh pomegranate</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$19.00 <del>$21.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-4.jpg" alt="">
-                                            </a>
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Cabbage vegetables</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$50.00</span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-5.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-31%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Best red meat</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$55.00 <del>$80.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
+                                                                            ?>
 
                                 </div>
                             </div>
                         </div>
                         <!-- End Single Tab Item -->
                         <!-- Start Single Tab Item -->
-                        <div class="tab-pane" id="fish">
+                        <div class="tab-pane show" id="essentialoil">
                             <div class="default-slider default-slider--hover-bg-red product-default-slider">
-                                <div class="product-default-slider-4grid-2rows gap__col--30 gap__row--40">
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-8.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-35%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Countdown -->
-                                            <div class="product__counter-box">
-                                                <div class="product__counter-item" data-countdown="2021/03/01"></div>
-                                            </div>
-                                            <!-- End Product Countdown -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Best ripe grapes</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$39.00 <del>$60.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
+                            <div class="product-default-slider-4grid-2rows gap__col--30 gap__row--40">
+                                    <?php
+                                    $sql = "SELECT * FROM `product` WHERE `category`='essentialoil'";
+                                    $query = mysqli_query($conn, $sql);
+                                    while ($row = mysqli_fetch_assoc($query)) {
+                                        // $percent = (($row['MRP'] - $row['saleprice']) * 100) / $row['MRP'];
+                                    ?>
 
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-9.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-out">Soldout</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Cow fresh milk</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$55.00 <del>$75.00</del></span>
+                                        <!-- Start Single Default Product -->
+                                        <div class="product__box product__default--single text-center">
+                                            <!-- Start Product Image -->
+                                            <div class="product__img-box  pos-relative">
+                                                <a href="product.php?id=<?php echo $row['id']; ?>" class="product__img--link">
+                                                    <img class="product__img img-fluid" src="assets/img/product/gallery/<?php echo $row['featuredimage'] ?>" alt="">
+                                                </a>
+                                                <!-- Start Procuct Label -->
+                                                <span class="product__label product__label--sale-dis">5%</span>
+                                                <!-- End Procuct Label -->
+                                                <!-- Start Product Action Link-->
+                                                <ul class="product__action--link pos-absolute">
+                                                    <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
+                                                    <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
+                                                    <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
+                                                    <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
+                                                </ul>
+                                                <!-- End Product Action Link -->
                                             </div>
+                                            <!-- End Product Image -->
+                                            <!-- Start Product Content -->
+                                            <div class="product__content m-t-20">
+                                                <ul class="product__review">
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--fill"><i class="icon-star"></i></li>
+                                                    <li class="product__review--blank"><i class="icon-star"></i></li>
+                                                </ul>
+                                                <a href="product.php?id=<?php echo $row['id']; ?>" class="product__link"><?php echo $row['Product_name'] ?></a>
+                                                <div class="product__price m-t-5">
+                                                    <span class="product__price"><i class="fa-solid fa-indian-rupee-sign"></i>
+                                                    <?php echo $row['saleprice'] ?> <del>
+                                                        <?php echo $row['MRP'] ?></del></span>
+                                                </div>
+                                            </div>
+                                            <!-- End Product Content -->
                                         </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
+                                        <!-- End Single Default Product --><?php }
 
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-10.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-out">Soldout</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Fresh Red Tomato</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$10.00</span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-3.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-10%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Countdown -->
-                                            <div class="product__counter-box">
-                                                <div class="product__counter-item" data-countdown="2023/09/27"></div>
-                                            </div>
-                                            <!-- End Product Countdown -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Fresh pomegranate</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$19.00 <del>$21.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-4.jpg" alt="">
-                                            </a>
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Cabbage vegetables</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$50.00</span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Fresh green vegetable</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$19.00 <del>$29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-2.jpg" alt="">
-                                            </a>
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Fresh river fish</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$25.00</span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-5.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-31%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Best red meat</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$55.00 <del>$80.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-6.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Fresh green apple</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$19.00 <del>$29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
-
-                                    <!-- Start Single Default Product -->
-                                    <div class="product__box product__default--single text-center">
-                                        <!-- Start Product Image -->
-                                        <div class="product__img-box  pos-relative">
-                                            <a href="product-single-default.html" class="product__img--link">
-                                                <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-7.jpg" alt="">
-                                            </a>
-                                            <!-- Start Procuct Label -->
-                                            <span class="product__label product__label--sale-dis">-34%</span>
-                                            <!-- End Procuct Label -->
-                                            <!-- Start Product Action Link-->
-                                            <ul class="product__action--link pos-absolute">
-                                                <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                                <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                                <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                                <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                            </ul>
-                                            <!-- End Product Action Link -->
-                                        </div>
-                                        <!-- End Product Image -->
-                                        <!-- Start Product Content -->
-                                        <div class="product__content m-t-20">
-                                            <ul class="product__review">
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--fill"><i class="icon-star"></i></li>
-                                                <li class="product__review--blank"><i class="icon-star"></i></li>
-                                            </ul>
-                                            <a href="product-single-default.html" class="product__link">Juice fresh orange</a>
-                                            <div class="product__price m-t-5">
-                                                <span class="product__price">$19.00 <del>$29.00</del></span>
-                                            </div>
-                                        </div>
-                                        <!-- End Product Content -->
-                                    </div>
-                                    <!-- End Single Default Product -->
+                                                                            ?>
 
                                 </div>
                             </div>
                         </div>
                         <!-- End Single Tab Item -->
+
                     </div>
                 </div>
             </div>
@@ -1461,7 +542,7 @@
                             <h1 class="banner__title banner__title--large font--regular text-capitalize">For all Grocery <br> products
                             </h1>
                             <h6 class="banner__title font--medium m-b-40">Take now 20% off for all grocer product.</h6>
-                            <a href="product-single-default.html" class="btn btn--large btn--radius btn--black btn--black-hover-green font--bold text-uppercase">Shop now</a>
+                            <a href="./shop.php" class="btn btn--large btn--radius btn--black btn--black-hover-green font--bold text-uppercase">Shop now</a>
                         </div>
                     </div>
                 </div>
@@ -1478,7 +559,7 @@
                     <!-- Start Section Title -->
                     <div class="section-content section-content--border m-b-35">
                         <h5 class="section-content__title">New Products</h5>
-                        <a href="shop-sidebar-grid-left.html" class="btn btn--icon-left btn--small btn--radius btn--transparent btn--border-green btn--border-green-hover-green font--regular text-capitalize">More Products<i class="fal fa-angle-right"></i></a>
+                        <a href="./shop.php" class="btn btn--icon-left btn--small btn--radius btn--transparent btn--border-green btn--border-green-hover-green font--regular text-capitalize">More Products<i class="fal fa-angle-right"></i></a>
                     </div>
                     <!-- End Section Title -->
                 </div>
@@ -1487,13 +568,19 @@
                 <div class="col-12">
                     <div class="default-slider default-slider--hover-bg-red product-default-slider">
                         <div class="product-default-slider-4grid-1rows gap__col--30 gap__row--40">
+                        <?php
+                                    $sql = "SELECT * FROM `product`";
+                                    $query = mysqli_query($conn, $sql);
+                                    while ($row = mysqli_fetch_assoc($query)) {
+                                        // $percent = (($row['MRP'] - $row['saleprice']) * 100) / $row['MRP'];
+                                    ?>
 
-                            <!-- Start Single Default Product -->
+                                             <!-- Start Single Default Product -->
                             <div class="product__box product__default--single text-center">
                                 <!-- Start Product Image -->
                                 <div class="product__img-box  pos-relative">
-                                    <a href="product-single-default.html" class="product__img--link">
-                                        <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-1.jpg" alt="">
+                                    <a href="product.php?id=<?php echo $row['id']; ?>" class="product__img--link">
+                                        <img class="product__img img-fluid" src="assets/img/product/gallery/<?php echo $row['featuredimage'] ?>" alt="">
                                     </a>
                                     <!-- Start Procuct Label -->
                                     <span class="product__label product__label--sale-dis">-34%</span>
@@ -1517,360 +604,22 @@
                                         <li class="product__review--fill"><i class="icon-star"></i></li>
                                         <li class="product__review--blank"><i class="icon-star"></i></li>
                                     </ul>
-                                    <a href="product-single-default.html" class="product__link">Fresh green vegetable</a>
+                                    <a href="product.php?id=<?php echo $row['id']; ?>" class="product__link"><?php echo $row['Product_name'] ?></a>
                                     <div class="product__price m-t-5">
-                                        <span class="product__price">$19.00 <del>$29.00</del></span>
+                                        <span class="product__price"><i class="fas fa-rupee"></i><?php echo $row['saleprice'] ?> <del>
+                                                        <?php echo $row['MRP'] ?></del></span>
                                     </div>
                                 </div>
                                 <!-- End Product Content -->
                             </div>
-                            <!-- End Single Default Product -->
+                            <!-- End Single Default Product --><?php }
 
-                            <!-- Start Single Default Product -->
-                            <div class="product__box product__default--single text-center">
-                                <!-- Start Product Image -->
-                                <div class="product__img-box  pos-relative">
-                                    <a href="product-single-default.html" class="product__img--link">
-                                        <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-2.jpg" alt="">
-                                    </a>
-                                    <!-- Start Product Action Link-->
-                                    <ul class="product__action--link pos-absolute">
-                                        <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                        <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                        <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                        <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                    </ul>
-                                    <!-- End Product Action Link -->
-                                </div>
-                                <!-- End Product Image -->
-                                <!-- Start Product Content -->
-                                <div class="product__content m-t-20">
-                                    <ul class="product__review">
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--blank"><i class="icon-star"></i></li>
-                                    </ul>
-                                    <a href="product-single-default.html" class="product__link">Fresh river fish</a>
-                                    <div class="product__price m-t-5">
-                                        <span class="product__price">$25.00</span>
-                                    </div>
-                                </div>
-                                <!-- End Product Content -->
-                            </div>
-                            <!-- End Single Default Product -->
+                                                                            ?>
 
-                            <!-- Start Single Default Product -->
-                            <div class="product__box product__default--single text-center">
-                                <!-- Start Product Image -->
-                                <div class="product__img-box  pos-relative">
-                                    <a href="product-single-default.html" class="product__img--link">
-                                        <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-3.jpg" alt="">
-                                    </a>
-                                    <!-- Start Procuct Label -->
-                                    <span class="product__label product__label--sale-dis">-10%</span>
-                                    <!-- End Procuct Label -->
-                                    <!-- Start Product Countdown -->
-                                    <div class="product__counter-box">
-                                        <div class="product__counter-item" data-countdown="2023/09/27"></div>
-                                    </div>
-                                    <!-- End Product Countdown -->
-                                    <!-- Start Product Action Link-->
-                                    <ul class="product__action--link pos-absolute">
-                                        <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                        <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                        <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                        <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                    </ul>
-                                    <!-- End Product Action Link -->
-                                </div>
-                                <!-- End Product Image -->
-                                <!-- Start Product Content -->
-                                <div class="product__content m-t-20">
-                                    <ul class="product__review">
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--blank"><i class="icon-star"></i></li>
-                                    </ul>
-                                    <a href="product-single-default.html" class="product__link">Fresh pomegranate</a>
-                                    <div class="product__price m-t-5">
-                                        <span class="product__price">$19.00 <del>$21.00</del></span>
-                                    </div>
-                                </div>
-                                <!-- End Product Content -->
-                            </div>
-                            <!-- End Single Default Product -->
+                      
 
-                            <!-- Start Single Default Product -->
-                            <div class="product__box product__default--single text-center">
-                                <!-- Start Product Image -->
-                                <div class="product__img-box  pos-relative">
-                                    <a href="product-single-default.html" class="product__img--link">
-                                        <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-4.jpg" alt="">
-                                    </a>
-                                    <!-- Start Product Action Link-->
-                                    <ul class="product__action--link pos-absolute">
-                                        <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                        <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                        <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                        <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                    </ul>
-                                    <!-- End Product Action Link -->
-                                </div>
-                                <!-- End Product Image -->
-                                <!-- Start Product Content -->
-                                <div class="product__content m-t-20">
-                                    <ul class="product__review">
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--blank"><i class="icon-star"></i></li>
-                                    </ul>
-                                    <a href="product-single-default.html" class="product__link">Cabbage vegetables</a>
-                                    <div class="product__price m-t-5">
-                                        <span class="product__price">$50.00</span>
-                                    </div>
-                                </div>
-                                <!-- End Product Content -->
-                            </div>
-                            <!-- End Single Default Product -->
 
-                            <!-- Start Single Default Product -->
-                            <div class="product__box product__default--single text-center">
-                                <!-- Start Product Image -->
-                                <div class="product__img-box  pos-relative">
-                                    <a href="product-single-default.html" class="product__img--link">
-                                        <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-5.jpg" alt="">
-                                    </a>
-                                    <!-- Start Procuct Label -->
-                                    <span class="product__label product__label--sale-dis">-31%</span>
-                                    <!-- End Procuct Label -->
-                                    <!-- Start Product Action Link-->
-                                    <ul class="product__action--link pos-absolute">
-                                        <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                        <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                        <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                        <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                    </ul>
-                                    <!-- End Product Action Link -->
-                                </div>
-                                <!-- End Product Image -->
-                                <!-- Start Product Content -->
-                                <div class="product__content m-t-20">
-                                    <ul class="product__review">
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--blank"><i class="icon-star"></i></li>
-                                    </ul>
-                                    <a href="product-single-default.html" class="product__link">Best red meat</a>
-                                    <div class="product__price m-t-5">
-                                        <span class="product__price">$55.00 <del>$80.00</del></span>
-                                    </div>
-                                </div>
-                                <!-- End Product Content -->
-                            </div>
-                            <!-- End Single Default Product -->
 
-                            <!-- Start Single Default Product -->
-                            <div class="product__box product__default--single text-center">
-                                <!-- Start Product Image -->
-                                <div class="product__img-box  pos-relative">
-                                    <a href="product-single-default.html" class="product__img--link">
-                                        <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-6.jpg" alt="">
-                                    </a>
-                                    <!-- Start Procuct Label -->
-                                    <span class="product__label product__label--sale-dis">-34%</span>
-                                    <!-- End Procuct Label -->
-                                    <!-- Start Product Action Link-->
-                                    <ul class="product__action--link pos-absolute">
-                                        <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                        <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                        <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                        <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                    </ul>
-                                    <!-- End Product Action Link -->
-                                </div>
-                                <!-- End Product Image -->
-                                <!-- Start Product Content -->
-                                <div class="product__content m-t-20">
-                                    <ul class="product__review">
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--blank"><i class="icon-star"></i></li>
-                                    </ul>
-                                    <a href="product-single-default.html" class="product__link">Fresh green apple</a>
-                                    <div class="product__price m-t-5">
-                                        <span class="product__price">$19.00 <del>$29.00</del></span>
-                                    </div>
-                                </div>
-                                <!-- End Product Content -->
-                            </div>
-                            <!-- End Single Default Product -->
-
-                            <!-- Start Single Default Product -->
-                            <div class="product__box product__default--single text-center">
-                                <!-- Start Product Image -->
-                                <div class="product__img-box  pos-relative">
-                                    <a href="product-single-default.html" class="product__img--link">
-                                        <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-7.jpg" alt="">
-                                    </a>
-                                    <!-- Start Procuct Label -->
-                                    <span class="product__label product__label--sale-dis">-34%</span>
-                                    <!-- End Procuct Label -->
-                                    <!-- Start Product Action Link-->
-                                    <ul class="product__action--link pos-absolute">
-                                        <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                        <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                        <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                        <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                    </ul>
-                                    <!-- End Product Action Link -->
-                                </div>
-                                <!-- End Product Image -->
-                                <!-- Start Product Content -->
-                                <div class="product__content m-t-20">
-                                    <ul class="product__review">
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--blank"><i class="icon-star"></i></li>
-                                    </ul>
-                                    <a href="product-single-default.html" class="product__link">Juice fresh orange</a>
-                                    <div class="product__price m-t-5">
-                                        <span class="product__price">$19.00 <del>$29.00</del></span>
-                                    </div>
-                                </div>
-                                <!-- End Product Content -->
-                            </div>
-                            <!-- End Single Default Product -->
-
-                            <!-- Start Single Default Product -->
-                            <div class="product__box product__default--single text-center">
-                                <!-- Start Product Image -->
-                                <div class="product__img-box  pos-relative">
-                                    <a href="product-single-default.html" class="product__img--link">
-                                        <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-8.jpg" alt="">
-                                    </a>
-                                    <!-- Start Procuct Label -->
-                                    <span class="product__label product__label--sale-dis">-35%</span>
-                                    <!-- End Procuct Label -->
-                                    <!-- Start Product Countdown -->
-                                    <div class="product__counter-box">
-                                        <div class="product__counter-item" data-countdown="2021/03/01"></div>
-                                    </div>
-                                    <!-- End Product Countdown -->
-                                    <!-- Start Product Action Link-->
-                                    <ul class="product__action--link pos-absolute">
-                                        <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                        <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                        <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                        <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                    </ul>
-                                    <!-- End Product Action Link -->
-                                </div>
-                                <!-- End Product Image -->
-                                <!-- Start Product Content -->
-                                <div class="product__content m-t-20">
-                                    <ul class="product__review">
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--blank"><i class="icon-star"></i></li>
-                                    </ul>
-                                    <a href="product-single-default.html" class="product__link">Best ripe grapes</a>
-                                    <div class="product__price m-t-5">
-                                        <span class="product__price">$39.00 <del>$60.00</del></span>
-                                    </div>
-                                </div>
-                                <!-- End Product Content -->
-                            </div>
-                            <!-- End Single Default Product -->
-
-                            <!-- Start Single Default Product -->
-                            <div class="product__box product__default--single text-center">
-                                <!-- Start Product Image -->
-                                <div class="product__img-box  pos-relative">
-                                    <a href="product-single-default.html" class="product__img--link">
-                                        <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-9.jpg" alt="">
-                                    </a>
-                                    <!-- Start Procuct Label -->
-                                    <span class="product__label product__label--sale-out">Soldout</span>
-                                    <!-- End Procuct Label -->
-                                    <!-- Start Product Action Link-->
-                                    <ul class="product__action--link pos-absolute">
-                                        <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                        <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                        <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                        <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                    </ul>
-                                    <!-- End Product Action Link -->
-                                </div>
-                                <!-- End Product Image -->
-                                <!-- Start Product Content -->
-                                <div class="product__content m-t-20">
-                                    <ul class="product__review">
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--blank"><i class="icon-star"></i></li>
-                                    </ul>
-                                    <a href="product-single-default.html" class="product__link">Cow fresh milk</a>
-                                    <div class="product__price m-t-5">
-                                        <span class="product__price">$55.00 <del>$75.00</del></span>
-                                    </div>
-                                </div>
-                                <!-- End Product Content -->
-                            </div>
-                            <!-- End Single Default Product -->
-
-                            <!-- Start Single Default Product -->
-                            <div class="product__box product__default--single text-center">
-                                <!-- Start Product Image -->
-                                <div class="product__img-box  pos-relative">
-                                    <a href="product-single-default.html" class="product__img--link">
-                                        <img class="product__img img-fluid" src="assets/img/product/size-normal/product-home-1-img-10.jpg" alt="">
-                                    </a>
-                                    <!-- Start Procuct Label -->
-                                    <span class="product__label product__label--sale-out">Soldout</span>
-                                    <!-- End Procuct Label -->
-                                    <!-- Start Product Action Link-->
-                                    <ul class="product__action--link pos-absolute">
-                                        <li><a href="#modalAddCart" data-toggle="modal"><i class="icon-shopping-cart"></i></a></li>
-                                        <li><a href="compare.html"><i class="icon-sliders"></i></a></li>
-                                        <li><a href="wishlist.html"><i class="icon-heart"></i></a></li>
-                                        <li><a href="#modalQuickView" data-toggle="modal"><i class="icon-eye"></i></a></li>
-                                    </ul>
-                                    <!-- End Product Action Link -->
-                                </div>
-                                <!-- End Product Image -->
-                                <!-- Start Product Content -->
-                                <div class="product__content m-t-20">
-                                    <ul class="product__review">
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--fill"><i class="icon-star"></i></li>
-                                        <li class="product__review--blank"><i class="icon-star"></i></li>
-                                    </ul>
-                                    <a href="product-single-default.html" class="product__link">Fresh Red Tomato</a>
-                                    <div class="product__price m-t-5">
-                                        <span class="product__price">$10.00</span>
-                                    </div>
-                                </div>
-                                <!-- End Product Content -->
-                            </div>
-                            <!-- End Single Default Product -->
 
                         </div>
                     </div>
@@ -2075,65 +824,65 @@
     <!-- ::::::  End newsletter Section  ::::::  -->
 
     <!-- ::::::  Start  Company Logo Section  ::::::  -->
-    <div class="company-logo m-t-100">
+    <!-- <div class="company-logo m-t-100">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="company-logo__area default-slider">
-                        <!-- Start Single Company Logo Item -->
-                        <div class="company-logo__item">
+                    <div class="company-logo__area default-slider"> -->
+    <!-- Start Single Company Logo Item -->
+    <!-- <div class="company-logo__item">
                             <a href="#" class="company-logo__link">
                                 <img src="assets/img/company-logo/company-logo-1.png" alt="" class="company-logo__img">
                             </a>
-                        </div>
-                        <!-- End Single Company Logo Item -->
-                        <!-- Start Single Company Logo Item -->
-                        <div class="company-logo__item">
+                        </div> -->
+    <!-- End Single Company Logo Item -->
+    <!-- Start Single Company Logo Item -->
+    <!-- <div class="company-logo__item">
                             <a href="#" class="company-logo__link">
                                 <img src="assets/img/company-logo/company-logo-2.png" alt="" class="company-logo__img">
                             </a>
-                        </div>
-                        <!-- End Single Company Logo Item -->
-                        <!-- Start Single Company Logo Item -->
-                        <div class="company-logo__item">
+                        </div> -->
+    <!-- End Single Company Logo Item -->
+    <!-- Start Single Company Logo Item -->
+    <!-- <div class="company-logo__item">
                             <a href="#" class="company-logo__link">
                                 <img src="assets/img/company-logo/company-logo-3.png" alt="" class="company-logo__img">
                             </a>
-                        </div>
-                        <!-- End Single Company Logo Item -->
-                        <!-- Start Single Company Logo Item -->
-                        <div class="company-logo__item">
+                        </div> -->
+    <!-- End Single Company Logo Item -->
+    <!-- Start Single Company Logo Item -->
+    <!-- <div class="company-logo__item">
                             <a href="#" class="company-logo__link">
                                 <img src="assets/img/company-logo/company-logo-4.png" alt="" class="company-logo__img">
                             </a>
-                        </div>
-                        <!-- End Single Company Logo Item -->
-                        <!-- Start Single Company Logo Item -->
-                        <div class="company-logo__item">
+                        </div> -->
+    <!-- End Single Company Logo Item -->
+    <!-- Start Single Company Logo Item -->
+    <!-- <div class="company-logo__item">
                             <a href="#" class="company-logo__link">
                                 <img src="assets/img/company-logo/company-logo-5.png" alt="" class="company-logo__img">
                             </a>
-                        </div>
-                        <!-- End Single Company Logo Item -->
-                        <!-- Start Single Company Logo Item -->
-                        <div class="company-logo__item">
+                        </div> -->
+    <!-- End Single Company Logo Item -->
+    <!-- Start Single Company Logo Item -->
+    <!-- <div class="company-logo__item">
                             <a href="#" class="company-logo__link">
                                 <img src="assets/img/company-logo/company-logo-6.png" alt="" class="company-logo__img">
                             </a>
-                        </div>
-                        <!-- End Single Company Logo Item -->
-                        <!-- Start Single Company Logo Item -->
-                        <div class="company-logo__item">
+                        </div> -->
+    <!-- End Single Company Logo Item -->
+    <!-- Start Single Company Logo Item -->
+    <!-- <div class="company-logo__item">
                             <a href="#" class="company-logo__link">
                                 <img src="assets/img/company-logo/company-logo-7.png" alt="" class="company-logo__img">
                             </a>
-                        </div>
-                        <!-- End Single Company Logo Item -->
-                    </div>
+                        </div> -->
+    <!-- End Single Company Logo Item -->
+    <!-- </div>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- ::::::  End  Company Logo Section  ::::::  -->
 
 </main>

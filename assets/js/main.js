@@ -138,6 +138,10 @@
         speed: 2000,
         prevArrow: '<button type="button" class="hero-slider__arrow hero-slider__arrow--left"><i class="far fa-chevron-left"></i></button>',
         nextArrow: '<button type="button" class="hero-slider__arrow hero-slider__arrow--right"><i class="far fa-chevron-right"></i></button>',
+        settings: {
+
+            autoplay: true,
+        },
         responsive: [
 
             {

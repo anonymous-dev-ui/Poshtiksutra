@@ -1,3 +1,4 @@
+<?php include("./config.php") ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -38,9 +39,9 @@
 
 <body>
     <!-- ::::::  Start Header Section  ::::::  -->
+  
 
-
-    <header>
+    <header id="header">
         <div class="preheader">
             <div class="row-flex">
                 <ul>
@@ -147,16 +148,13 @@
                         </li>
                         <a href="./">
                             <li>Home</li>
-                        </a><a href="./shop.php">
-                            <li>Shop</li>
-                        </a>
-                        <a href="./blog.php">
-                            <li>Blogs</li>
                         </a>
                         <a href="./about.php">
                             <li>About</li>
                         </a>
-                        
+                        <a href="./shop.php">
+                            <li>Shop</li>
+                        </a>
                         <a href="./contact.php">
                             <li>Contact</li>
                         </a>
@@ -170,7 +168,7 @@
         <div class="navbar">
             <div class="categorybar">
                 <span id="open-list">
-                    <h3> All Category</h3><i class="fas fa-chevron-right"></i>
+                    <h3> Product Category</h3><i class="fas fa-chevron-right"></i>
                 </span>
                 <ul id="list">
                     <li><img src="./assets/gallery/placeholder.png" alt=""><a href="#">Edible Oil</a><i class="fas fa-plus"></i></li>
@@ -191,7 +189,7 @@
             <div class="menu">
                 <ul>
                     <li>
-                        <a href="./">Home</a>
+                        <a href="#">Home</a>
                     </li>
                     <li>
                         <a href="./shop.php">Shop</a>

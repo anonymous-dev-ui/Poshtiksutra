@@ -4133,7 +4133,7 @@ header.sticky .preheader {
 header.sticky {
     position: fixed;
     top: 0;
-    height: 70px;
+    height: fit-content;
     background-color: #fff;
 }
 

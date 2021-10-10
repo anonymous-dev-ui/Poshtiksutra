@@ -257,7 +257,7 @@ AOS.init({
                togglelist[i].classList.toggle("active");
                togglelist[i].nextElementSibling.classList.toggle("active");
            }
-           togglelist[i].addEventListener('mouseover','mouseoverout',function(){
+           togglelist[i].addEventListener('mouseover',function(){
 
             togglelist[i].classList.toggle("active");
                togglelist[i].nextElementSibling.classList.toggle("active");

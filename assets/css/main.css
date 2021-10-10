@@ -4126,7 +4126,11 @@ header {
     padding: 0;
 }
 
-header.sticky .navbar {
+header.sticky .preheader {
+    display: none;
+}
+
+header.sticky {
     position: fixed;
     top: 0;
     height: 70px;
